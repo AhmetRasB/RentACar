@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkGefQTzWgg=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\RentACarServer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.0\\fluentvalidation.dependencyinjectionextensions.12.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\mapster\\9.0.0-pre01\\mapster.9.0.0-pre01.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\mapster.core\\9.0.0-pre01\\mapster.core.9.0.0-pre01.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\ts.mediatr\\9.0.6\\ts.mediatr.9.0.6.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\ts.result\\9.0.1\\ts.result.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\bin\Debug\net9.0\RentACarServer.Application.deps.json
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\bin\Debug\net9.0\RentACarServer.Application.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\bin\Debug\net9.0\RentACarServer.Application.pdb
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.AssemblyInfoInputs.cache
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.AssemblyInfo.cs
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.csproj.CoreCompileInputs.cache
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\refint\RentACarServer.Application.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.pdb
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\ref\RentACarServer.Application.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.csproj.AssemblyReference.cache
