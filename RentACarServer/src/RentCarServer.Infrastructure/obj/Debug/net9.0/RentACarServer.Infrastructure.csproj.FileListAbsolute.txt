@@ -17,3 +17,4 @@ C:\Projects\RentACarProject\RentACarServer\src\RentCarServer.Infrastructure\obj\
 C:\Projects\RentACarProject\RentACarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentACarServer.Infrastructure.pdb
 C:\Projects\RentACarProject\RentACarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentACarServer.Infrastructure.genruntimeconfig.cache
 C:\Projects\RentACarProject\RentACarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\ref\RentACarServer.Infrastructure.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentACarServer.Infrastructure.sourcelink.json

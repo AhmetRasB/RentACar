@@ -10,3 +10,7 @@ C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\De
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.pdb
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\ref\RentACarServer.Application.dll
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.csproj.AssemblyReference.cache
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACarServer.Application.sourcelink.json
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\bin\Debug\net9.0\RentACarServer.Domain.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\bin\Debug\net9.0\RentACarServer.Domain.pdb
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Application\obj\Debug\net9.0\RentACar.E97DBA24.Up2Date

@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.11" />
@@ -21,10 +22,6 @@
     <ProjectReference Include="..\..\RentACarServer.Domain\RentACarServer.Domain.csproj" />
     <ProjectReference Include="..\RentACarServer.Application\RentACarServer.Application.csproj" />
     <ProjectReference Include="..\RentACarServer.Domain\RentACarServer.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Configurations\" />
   </ItemGroup>
 
 </Project>

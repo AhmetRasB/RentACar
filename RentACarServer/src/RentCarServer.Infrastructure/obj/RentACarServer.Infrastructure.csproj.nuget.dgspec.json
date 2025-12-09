@@ -104,7 +104,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\RentACarServer.Domain.csproj": {
+                "projectPath": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\RentACarServer.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -213,6 +217,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "TS.EntityFrameworkCore.GenericRepository": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -293,6 +303,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.3.0, )"

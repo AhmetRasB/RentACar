@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using GenericRepository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
@@ -11,15 +12,16 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RentACarServer.Domain.Abstractions;
 using RentACarServer.Infrastructure;
 using RentACarServer.Domain.Abstractions;
+using RentACarServer.Domain.Users;
 
 namespace RentACarServer.Infrastructure.Context
 {
-    public sealed class ApplicationDbContext : DbContext
+    public sealed class ApplicationDbContext : DbContext, IUnitOfWork
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
-
+        public DbSet<User> Users { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
@@ -32,13 +34,13 @@ namespace RentACarServer.Infrastructure.Context
             var entries = ChangeTracker.Entries<Entity>();
 
             HttpContextAccessor httpContextAccessor = new();
-            string userIdString =
-                httpContextAccessor
-                    .HttpContext!
-                    .User
-                    .Claims
-                    .First(p => p.Type == ClaimTypes.NameIdentifier)
-                    .Value;
+            string userIdString = 
+            httpContextAccessor
+                .HttpContext!
+                .User
+                .Claims
+                .First(p => p.Type == ClaimTypes.NameIdentifier)
+                .Value;
 
             Guid userId = Guid.Parse(userIdString);
             IdentityId identityId = new(userId);
@@ -82,6 +84,9 @@ namespace RentACarServer.Infrastructure.Context
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
         {
             configurationBuilder.Properties<IdentityId>().HaveConversion<IdentityIdValueConverter>();
+            configurationBuilder.Properties<decimal>().HaveColumnType("decimal(18,2)");
+            configurationBuilder.Properties<string>().HaveColumnType("varchar(MAX)");
+
             base.ConfigureConventions(configurationBuilder);
         }
     }

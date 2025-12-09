@@ -7,17 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="NewFolder\**" />
-    <EmbeddedResource Remove="NewFolder\**" />
-    <None Remove="NewFolder\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="FluentValidation" Version="12.1.0" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.0" />
     <PackageReference Include="Mapster" Version="9.0.0-pre01" />
     <PackageReference Include="TS.MediatR" Version="9.0.6" />
     <PackageReference Include="TS.Result" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RentACarServer.Domain\RentACarServer.Domain.csproj" />
   </ItemGroup>
 
 </Project>

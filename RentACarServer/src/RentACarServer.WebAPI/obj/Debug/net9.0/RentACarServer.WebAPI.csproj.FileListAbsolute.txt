@@ -183,3 +183,6 @@ C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\n
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\net9.0\System.Text.Json.dll
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\net9.0\RentACarServer.Infrastructure.dll
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\net9.0\RentACarServer.Infrastructure.pdb
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\net9.0\GenericRepository.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\obj\Debug\net9.0\RentACarServer.WebAPI.sourcelink.json
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.WebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

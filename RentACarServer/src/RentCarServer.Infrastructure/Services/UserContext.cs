@@ -13,6 +13,10 @@ namespace RentACarServer.Infrastructure.Services
         public Guid GetUserId()
         {
             var httpContext = httpContextAccessor.HttpContext;
+            if (httpContext == null)
+            {
+                throw new ArgumentException("Context Information Not Found");
+            }
             var claims = httpContext?.User.Claims;
             string UserId = claims.FirstOrDefault(i => i.Type == ClaimTypes.NameIdentifier)?.Value;
             if (UserId is null)

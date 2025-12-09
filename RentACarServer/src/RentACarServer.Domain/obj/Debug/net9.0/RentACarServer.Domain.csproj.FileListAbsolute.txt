@@ -9,3 +9,5 @@ C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\n
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\net9.0\refint\RentACarServer.Domain.dll
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\net9.0\RentACarServer.Domain.pdb
 C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\net9.0\ref\RentACarServer.Domain.dll
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\net9.0\RentACarServer.Domain.csproj.AssemblyReference.cache
+C:\Projects\RentACarProject\RentACarServer\src\RentACarServer.Domain\obj\Debug\net9.0\RentACarServer.Domain.sourcelink.json
