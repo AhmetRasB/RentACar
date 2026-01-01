@@ -2,6 +2,7 @@ using System.Threading.RateLimiting;
 using Microsoft.AspNetCore.OData;
 using Microsoft.AspNetCore.RateLimiting;
 using RentACarServer.Application;
+using RentACarServer.Application.Services;
 using RentACarServer.Infrastructure;
 using RentACarServer.WebAPI;
 using RentACarServer.WebAPI.Modules;
@@ -19,6 +20,19 @@ builder.Services.AddRateLimiter(cfr =>
         opt.Window = TimeSpan.FromSeconds(1);
         opt.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
     });
+    cfr.AddFixedWindowLimiter("login-fixed", opt =>
+    {
+        opt.PermitLimit = 5;
+        opt.QueueLimit = 1;
+        opt.Window = TimeSpan.FromMinutes(1);
+        opt.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
+    });
+    cfr.AddFixedWindowLimiter("forgot-password-fixed", opt =>
+    {
+        opt.PermitLimit = 5;
+        opt.Window = TimeSpan.FromMinutes(3);
+        opt.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
+    });
 });
 builder.Services
     .AddControllers()
@@ -31,9 +45,12 @@ builder.Services
             .SetMaxTop(null)
     );
 builder.Services.AddCors();
-builder.Services.AddOpenApi();
+builder.Services.AddOpenApi();  
 builder.Services.AddExceptionHandler<ExceptionHandler>().AddProblemDetails();
-
+builder.Services.AddResponseCompression(opt =>
+{
+    opt.EnableForHttps = true;
+});
 var app = builder.Build();
 app.MapOpenApi();
 app.MapScalarApiReference();
@@ -43,11 +60,17 @@ app.UseCors(x => x
     .AllowAnyOrigin()
     .AllowAnyMethod()
     .SetPreflightMaxAge(TimeSpan.FromMinutes(10)));
+app.UseResponseCompression();
 app.UseExceptionHandler();
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseRateLimiter();
 app.MapControllers().RequireRateLimiting("fixed").RequireAuthorization();
 app.MapAuthEndpoint();
-app.MapGet("/", () => "Hello world").RequireAuthorization();
+app.MapGet("/", async (IMailService mailService) =>
+{
+    await mailService.SendAsync("ahmet@gmail.com", "Test", "<h1>Bu bir test mailidir</h1>",default);
+    return Results.Ok();
+});
 //await app.CreateFirstUser();
 app.Run();

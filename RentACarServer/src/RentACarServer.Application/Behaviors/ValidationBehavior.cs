@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -44,8 +44,8 @@ public sealed class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<
         {
             var errors = errorDictionary.Select(s => new ValidationFailure
             {
-                PropertyName = s.Value,
-                ErrorCode = s.Key
+                PropertyName = s.Key,
+                ErrorMessage = s.Value
             });
             throw new ValidationException(errors);
         }

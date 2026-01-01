@@ -1,4 +1,4 @@
-﻿using FluentValidation;
+using FluentValidation;
 using Microsoft.AspNetCore.Diagnostics;
 using RentACarServer.Application.Behaviors;
 using TS.Result;
@@ -28,7 +28,7 @@ namespace RentACarServer.WebAPI
                 httpContext.Response.StatusCode = 422;
 
                 errorResult = Result<string>.Failure(422,
-                    ((ValidationException)exception).Errors.Select(s => s.PropertyName).ToList());
+                    ((ValidationException)exception).Errors.Select(s => s.ErrorMessage).ToList());
 
                 await httpContext.Response.WriteAsJsonAsync(errorResult);
 

@@ -14,7 +14,14 @@ namespace RentACarServer.WebAPI.Modules
                 {
                     var res = await sender.Send(request, cancellationToken);
                     return res.IsSuccessful ? Results.Ok(res) : Results.InternalServerError(res);
-                }).Produces<Result<string>>();
+                }).Produces<Result<string>>().RequireRateLimiting("login-fixed");
+
+            app.MapPost("/forgot-password/{email}",
+                async (string email, ISender sender, CancellationToken cancellationToken) =>
+                {
+                    var res = await sender.Send(new ForgotPasswordCommand(email), cancellationToken);
+                    return res.IsSuccessful ? Results.Ok(res) : Results.InternalServerError(res);
+                }).Produces<Result<string>>().RequireRateLimiting("forgot-password-fixed");
         }
     }
 }

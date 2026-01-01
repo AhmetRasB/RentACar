@@ -20,6 +20,9 @@ namespace RentACarServer.Infrastructure.Configurations
             builder.OwnsOne(i=>i.Email);
             builder.OwnsOne(i=>i.UserName);
             builder.OwnsOne(i=>i.Password);
+            builder.OwnsOne(i => i.ForgotPasswordCreatedAt);
+            builder.OwnsOne(i => i.ForgotPasswordId);
+            builder.OwnsOne(i => i.IsForgotPasswordCompleted);
 
         }
     }

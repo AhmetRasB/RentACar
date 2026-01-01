@@ -3,40 +3,104 @@
   "WorkspaceRootPath": "C:\\Projects\\RentACarProject\\RentACarServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\options\\jwtsetupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\options\\jwtsetupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\auth\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\auth\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\valueobject\\isforgotpasswordcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\valueobject\\isforgotpasswordcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\valueobject\\forgotpasswordcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\valueobject\\forgotpasswordcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\valueobject\\forgotpasswordid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\valueobject\\forgotpasswordid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\options\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\options\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\options\\jwtsetupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\options\\jwtsetupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\services\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\services\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\services\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,28 +115,8 @@
       "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\valueobject\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\valueobject\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.domain\\users\\valueobject\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,24 +143,12 @@
       "RelativeMoniker": "D:0:0:{C28A44E0-BE1B-4AC1-9DB6-114196434790}|src\\RentACarServer.Domain\\RentACarServer.Domain.csproj|solutionrelative:src\\rentacarserver.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\behaviors\\permissionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\behaviors\\permissionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.application\\services\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4899E0D-DB72-40D4-A331-B26766EDEB28}|src\\RentACarServer.Application\\RentACarServer.Application.csproj|solutionrelative:src\\rentacarserver.application\\services\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\controllers\\odatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\rentacarserver.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\rentacarserver.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|solutionrelative:src\\rentacarserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{904F9E75-83A0-4418-8519-2276EA9A9A90}|src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentacarserver.webapi\\rentacarserver.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -153,6 +181,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\migrations\\20251122170452_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\migrations\\20251122170452_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|c:\\projects\\rentacarproject\\rentacarserver\\src\\rentcarserver.infrastructure\\migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622ADBDA-1D8C-4D1F-A3CF-E225AF1085DD}|src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +194,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,313 +210,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtSetupOptions.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:15:51.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T19:06:48.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADgvzIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T17:57:04.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T12:32:24.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthModule.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T12:23:56.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
-              "RelativeToolTip": "src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T11:50:40.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
-              "RelativeToolTip": "src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T11:31:20.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LastName.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
+              "DocumentIndex": 7,
+              "Title": "IsForgotPasswordCompleted.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\IsForgotPasswordCompleted.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\IsForgotPasswordCompleted.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\IsForgotPasswordCompleted.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\IsForgotPasswordCompleted.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T10:26:48.592Z"
+              "WhenOpened": "2025-12-19T20:08:26.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Password.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T10:26:46.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserName.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T10:26:43.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:31:57.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20251125204850_i_added_user_table.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:48:50.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentIndex": 8,
+              "Title": "ForgotPasswordCreatedAt.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordCreatedAt.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordCreatedAt.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordCreatedAt.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordCreatedAt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:47:16.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:02:12.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\User.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\User.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\User.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:41:01.733Z"
+              "WhenOpened": "2025-12-19T20:08:21.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Title": "ForgotPasswordId.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordId.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordId.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordId.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\ForgotPasswordId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:44:53.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T10:14:36.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceRegistrar.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:31:23.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T11:21:34.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:44:58.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T22:30:41.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:03:04.481Z"
+              "WhenOpened": "2025-12-19T20:07:59.551Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ServiceRegistrar.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\ServiceRegistrar.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\ServiceRegistrar.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\ServiceRegistrar.cs",
-              "RelativeToolTip": "src\\RentACarServer.Application\\ServiceRegistrar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T21:32:24.232Z"
+              "WhenOpened": "2025-11-22T09:31:23.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PermissionBehavior.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
-              "RelativeToolTip": "src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Auth\\LoginCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T21:38:32.547Z"
+              "WhenOpened": "2025-12-06T11:31:20.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T21:34:56.453Z"
+              "WhenOpened": "2025-11-22T11:08:20.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
+              "Title": "ForgotPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\ForgotPasswordCommand.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Auth\\ForgotPasswordCommand.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Auth\\ForgotPasswordCommand.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Auth\\ForgotPasswordCommand.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAwwDABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:25:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IUserContext.cs",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IUserContext.cs",
               "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Services\\IUserContext.cs",
@@ -496,7 +307,369 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IMailService.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Services\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:27:46.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:57:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T16:51:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:06:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T22:30:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\MailService.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\MailService.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:28:56.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251219201249_i_added_forgot_password_fields_to_user_table.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\20251219201249_i_added_forgot_password_fields_to_user_table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:12:49.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:03:04.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\User.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:41:01.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:44:58.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.Production.json",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Production.json",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T16:51:52.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Options\\SmtpSettings.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\SmtpSettings.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Options\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:54:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T16:52:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSetupOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Options\\JwtSetupOptions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:15:51.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T21:34:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:47:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251125204850_i_added_user_table.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\20251125204850_i_added_user_table.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:48:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:31:57.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserName.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\UserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T10:26:43.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\Password.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T10:26:46.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthModule.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
+              "RelativeToolTip": "src\\RentACarServer.WebAPI\\Modules\\AuthModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:23:56.651Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "LastName.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\ValueObject\\LastName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T10:26:48.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Services\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T11:50:40.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\JwtProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:32:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:02:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:44:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "src\\RentACarServer.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T10:14:36.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:21:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\ServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\ServiceRegistrar.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\ServiceRegistrar.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\ServiceRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T21:32:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PermissionBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
+              "RelativeDocumentMoniker": "src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
+              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
+              "RelativeToolTip": "src\\RentACarServer.Application\\Behaviors\\PermissionBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T21:38:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Properties\\launchSettings.json",
@@ -508,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "RentACarServer.WebAPI.csproj",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj",
               "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj",
@@ -520,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "ODataController.cs",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Controllers\\ODataController.cs",
               "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Controllers\\ODataController.cs",
@@ -532,20 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\Program.cs",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T11:08:20.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "RentACarServer.WebAPI",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj",
               "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\RentACarServer.WebAPI.csproj",
@@ -556,57 +716,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.json",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T16:51:09.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "RentACarServer.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj",
               "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj",
               "RelativeToolTip": "src\\RentCarServer.Infrastructure\\RentACarServer.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-22T11:06:13.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.Production.json",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Production.json",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T16:51:52.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\RentACarServer.WebAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.WebAPI\\appsettings.Development.json",
-              "RelativeToolTip": "src\\RentACarServer.WebAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T16:52:00.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "20251122170452_initial.cs",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251122170452_initial.cs",
               "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251122170452_initial.cs",
@@ -618,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "20251122165942_initial.cs",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251122165942_initial.cs",
               "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251122165942_initial.cs",
@@ -629,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "RentACarServer.Application.csproj",
               "DocumentMoniker": "C:\\Projects\\RentACarProject\\RentACarServer\\src\\RentACarServer.Application\\RentACarServer.Application.csproj",
               "RelativeDocumentMoniker": "src\\RentACarServer.Application\\RentACarServer.Application.csproj",
